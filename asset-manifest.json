@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/Hooks-de-Enrutamiento/static/js/main.c0326f4e.chunk.js",
+    "main.js.map": "/Hooks-de-Enrutamiento/static/js/main.c0326f4e.chunk.js.map",
+    "runtime-main.js": "/Hooks-de-Enrutamiento/static/js/runtime-main.bc78fdcc.js",
+    "runtime-main.js.map": "/Hooks-de-Enrutamiento/static/js/runtime-main.bc78fdcc.js.map",
+    "static/css/2.383c0125.chunk.css": "/Hooks-de-Enrutamiento/static/css/2.383c0125.chunk.css",
+    "static/js/2.4c2904cd.chunk.js": "/Hooks-de-Enrutamiento/static/js/2.4c2904cd.chunk.js",
+    "static/js/2.4c2904cd.chunk.js.map": "/Hooks-de-Enrutamiento/static/js/2.4c2904cd.chunk.js.map",
+    "index.html": "/Hooks-de-Enrutamiento/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/Hooks-de-Enrutamiento/static/css/2.383c0125.chunk.css.map",
+    "static/js/2.4c2904cd.chunk.js.LICENSE.txt": "/Hooks-de-Enrutamiento/static/js/2.4c2904cd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc78fdcc.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.4c2904cd.chunk.js",
+    "static/js/main.c0326f4e.chunk.js"
+  ]
+}
